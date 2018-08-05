@@ -1,8 +1,8 @@
-##**VIDEO STREAMER**
+## **VIDEO STREAMER**
 
 Simple streamer for Avengers: infinity war trailer
 
-####ROUTES
+#### ROUTES
 
 * GET `/`
 * GET `/video`
